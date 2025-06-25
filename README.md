@@ -68,11 +68,11 @@
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chirayu2107&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daksh1706&theme=aura_dark)
 
 <div display="flex">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=chirayu2107&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daksh1706&theme=aura_dark)
 
 
 <div>
