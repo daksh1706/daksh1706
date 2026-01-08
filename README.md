@@ -3,7 +3,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/desikiteretsu_?label=dakshmaru)](https://x.com/_dakshmaru)
-[![Linkedin: daksh](https://img.shields.io/badge/-daksh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chirayumaru/)](https://www.linkedin.com/in/daksh-maru-4b07a5325/)
+[![Linkedin: daksh](https://www.linkedin.com/in/daksh-maru-4b07a5325/)
 ![GitHub followers](https://img.shields.io/github/followers/daksh1706?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=daksh1706&color=brightgreen&base=1600)
 
